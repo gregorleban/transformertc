@@ -1,5 +1,8 @@
 numpy==1.17.2
-torch==1.2.0
+
+# torch==1.2.0
+# conda install pytorch==1.2.0 torchvision==0.4.0 cudatoolkit=10.0 -c pytorch
+
 scikit-learn==0.21.3
 seqeval==0.0.12
 tqdm==4.36.1
